@@ -1,0 +1,6 @@
+[package]
+name = "ioat"
+version = "0.1.0"
+authors = ["snorr <snorredc@gmail.com>"]
+
+[dependencies]
