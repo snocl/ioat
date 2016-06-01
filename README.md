@@ -1,8 +1,8 @@
-# `atio`
+# `ioat`
 
-The `atio` crate provides traits for atomic, random-access I/O.
+The `ioat` crate provides traits for atomic, random-access I/O.
 
-If you want to use `atio`, add this to your `Cargo.toml`:
+If you want to use `ioat`, add this to your `Cargo.toml`:
 
     [dependencies]
-    atio = "0.1"
+    ioat = "0.1"
