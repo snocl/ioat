@@ -1,4 +1,4 @@
-//! The `ioat` crate provides trait for atomic, random-access I/O access.
+//! The `ioat` crate provides traits for atomic, random-access I/O access.
 
 use std::fs::File;
 use std::cmp;

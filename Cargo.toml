@@ -5,6 +5,7 @@ license = "MIT"
 authors = ["snorr <snorredc@gmail.com>"]
 description = "Traits for atomic, random-access I/O"
 repository = "https://github.com/snorr/ioat"
+readme = "README.md"
 keywords = ["io"]
 
 [dependencies]
