@@ -1,6 +1,10 @@
 [package]
 name = "ioat"
 version = "0.1.0"
+license = "MIT"
 authors = ["snorr <snorredc@gmail.com>"]
+description = "Traits for atomic, random-access I/O"
+repository = "https://github.com/snorr/ioat"
+keywords = ["io"]
 
 [dependencies]
